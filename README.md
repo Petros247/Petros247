@@ -1,23 +1,25 @@
 ### Hi there 👋
 
-I'm Petros, a CS Undergraduate student at AUEB based in Athens,Greece.
+I'm Petros, a CS :computer: Undergraduate student at AUEB based in Athens,Greece.
+<br/>
 
+### Below you can find some of the projects i have participated during my studies 🔭 : 
 
-Below you can find some of the projects i participated during my studies: 
+<br/>
 
-Compilers Project --> https://github.com/JimTsiob/Compilers-Project
+:dart: Compilers Project --> https://github.com/JimTsiob/Compilers-Project
 
-AI Project --> https://github.com/nevwalkalone/Bridge-and-Torch-Problem
+:dart: AI Project --> https://github.com/nevwalkalone/Bridge-and-Torch-Problem
 
-POSIX Threads Project --> https://github.com/nevwalkalone/POSIX-Projects
+:dart: POSIX Threads Project --> https://github.com/nevwalkalone/POSIX-Projects
 
-PSQL Database Project --> https://github.com/nevwalkalone/PSQL-Projects
+:dart: PSQL Database Project --> https://github.com/nevwalkalone/PSQL-Projects
 
-Distributed Application Project --> https://github.com/nevwalkalone/Tik-Tok-Simulation
+:dart: Distributed Application Project --> https://github.com/nevwalkalone/Tik-Tok-Simulation
 
+<br/>
 
-
-- 📫 How to reach me:
+### How to reach me 📫:
 
 GMAIL : petros.tsotsi247@gmail.com
 
