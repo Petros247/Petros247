@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+I'm Petros, a CS Undergraduate student at AUEB based in Athens,Greece.
+
+
+### Below you can find some of the projects i participated during my studies: 
+
+
+
+### You can contact me through :
+
+
 <!--
 **Petros247/Petros247** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
