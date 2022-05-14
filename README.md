@@ -19,8 +19,7 @@ I'm Petros, a CS :computer: Undergraduate student at AUEB based in Athens,Greece
 
 <br/>
 
-### How to reach me 📫: &nbsp;   [Gmail](petros.tsotsi247@gmail.com) &nbsp;  and   &nbsp; [LinkedIn](https://www.linkedin.com/in/petros-tsotsi-0086a919a/)
-
+### How to reach me 📫: &nbsp;   <a href="mailto:petros.tsotsi247@gmail.com">Gmail</a> &nbsp;  and   &nbsp; [LinkedIn](https://www.linkedin.com/in/petros-tsotsi-0086a919a/)
 
 
 
