@@ -15,7 +15,13 @@ PSQL Database Project --> https://github.com/nevwalkalone/PSQL-Projects
 
 Distributed Application Project --> https://github.com/nevwalkalone/Tik-Tok-Simulation
 
-- 📫 How to reach me: ...
+- 📫 How to reach me:
+
+GMAIL : petros.tsotsi247@gmail.com
+LINKEDIN : https://www.linkedin.com/in/petros-tsotsi-0086a919a/
+
+
+
 
 
 <!--
