@@ -9,6 +9,10 @@ I am currently working as a Junior QA Engineer at [Netcompany-Intrasoft](https:/
 
 <br/>
 
+:dart: Computer Architecture Project --> https://github.com/JimTsiob/Comp-Arch-Projects
+
+:dart: Human-Computer Interaction Project --> https://github.com/dmamakas2000/hci
+
 :dart: Compilers Project --> https://github.com/JimTsiob/Compilers-Project
 
 :dart: AI Project --> https://github.com/nevwalkalone/Bridge-and-Torch-Problem
