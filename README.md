@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm Petros, a CS :computer: Undergraduate student at AUEB based in Athens,Greece.
+I'm Petros, a CS :computer: graduate student based in Athens, Greece.
+
+I am currently working as a Junior QA Engineer at [Netcompany-Intrasoft](https://www.netcompany-intrasoft.com/).
 <br/>
 
 ### Below you can find some of the projects i have participated during my studies 🔭 : 
