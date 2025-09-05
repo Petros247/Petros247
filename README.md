@@ -2,7 +2,7 @@
 
 I'm Petros, a CS :computer: graduate student based in Athens, Greece.
 
-I am currently working as a Junior QA Engineer at [Netcompany-Intrasoft](https://www.netcompany-intrasoft.com/).
+I am currently pursuing my Master's degree in Business Analytics at Athens University of Economics and Business.
 <br/>
 
 ### Below you can find some of the projects i have participated during my studies 🔭 : 
